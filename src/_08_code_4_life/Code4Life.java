@@ -1,5 +1,6 @@
 package _08_code_4_life;
 
+
 /*
  *    Copyright (c) The League of Amazing Programmers 2013-2017
  *    Level 0
